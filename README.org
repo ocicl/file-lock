@@ -1,0 +1,9 @@
+* file-lock
+
+Simple flock based file locking for CL
+
+|---------+----------------------------------------|
+| source  | git:https://github.com/tdrhq/file-lock |
+| commit  | d2e3a34                                |
+| systems | file-lock                              |
+|---------+----------------------------------------|
